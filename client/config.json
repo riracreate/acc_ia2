@@ -1,0 +1,12 @@
+{
+  "cloud_url": "http://13.127.17.52:8000",
+  "api_key": "b59c1dc9eae1246a5033568879215b428670cd3aee9ce11fdaee06ea8d1843df",
+  "temperature_min": 2.0,
+  "temperature_max": 8.0,
+  "sensor_interval_seconds": 2,
+  "mqtt_host": "127.0.0.1",
+  "mqtt_port": 1883,
+  "mqtt_topic": "coldchain/readings",
+  "local_db": "fog.db",
+  "outage_flag": "OUTAGE.flag"
+}
